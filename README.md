@@ -1,2 +1,3 @@
 # APNA-COLLEGE-.....
 this is my first git repository.
+Author-Prakriti Kumari
